@@ -3,13 +3,6 @@
 <p align="center">
   Software Engineer passionate about systems programming, networking, backend architecture, and full-stack development.
 </p>
-
-<p align="center">
-  <a href="https://github.com/awkalloc">
-    <img src="https://komarev.com/ghpvc/?username=awkalloc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
