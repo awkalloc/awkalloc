@@ -95,7 +95,7 @@ A full-stack web application featuring real-time multiplayer interactions.
 
 **Backend**
 
-`Python` `FastAPI` `Django` `NestJS`
+`Python` `FastAPI` `Django` `NodeJS`
 
 **Frontend**
 
@@ -107,11 +107,11 @@ A full-stack web application featuring real-time multiplayer interactions.
 
 **Databases**
 
-`PostgreSQL`
+`SQL` `sqlite3`
 
 **Other**
 
-`Sockets` `TCP/IP` `Debugging` `System Programming` `Algorithms`
+`Sockets` `TCP/IP` `Debugging` `System Programming` `Algorithms` `LLDB`
 
 ---
 
@@ -120,15 +120,3 @@ A full-stack web application featuring real-time multiplayer interactions.
 I'm a 42 student who enjoys tackling problems at different levels of abstraction — from low-level systems programming to modern backend architectures.
 
 I value clean code, curiosity, and continuous learning. Most of my projects are opportunities to explore how things work internally while building software that's practical and reliable.
-
-```bash
-$ whoami
-awkalloc
-
-$ interests
-systems programming
-backend engineering
-python development
-networking
-open source
-```
