@@ -1,171 +1,134 @@
-<div align="center">
+# Hey there — I'm awkalloc 👋
 
-# awkalloc
+I'm a developer passionate about **systems programming**, **backend engineering**, and **networking**.
 
-```txt
-> systems programming
-> networking
-> python engineering
-> full-stack development
-```
+My journey started with low-level development through the 42 curriculum, where I learned how software works under the hood: processes, memory management, networking, concurrency, and Unix internals. Today, I'm increasingly focused on building robust backend services, automation tools, and applications in **Python**.
 
-</div>
-
-<br>
-
-## /about
-
-I build software from low-level systems to modern web applications.
-
-My background comes from systems programming, networking, and Unix internals, but my current focus is increasingly centered around **Python**, backend engineering, automation, developer tooling, and scalable application design.
-
-Interested in:
-
-- Python engineering
-- Backend architecture
-- Network protocols
-- Linux systems
-- Distributed applications
-- Developer tools
-- Real-time systems
+I enjoy understanding systems from the inside out — whether it's implementing a shell, building a network server, or designing modern web applications.
 
 ---
 
-## /stack
+## 💡 Currently Exploring
 
-```txt
-Languages
-├─ Python
-├─ C
-├─ C++
-├─ TypeScript
-├─ JavaScript
-└─ Bash
+🐍 Building more projects in Python, focusing on:
 
-Backend
-├─ Python
-├─ FastAPI
-├─ Django
-├─ NestJS
-└─ REST APIs
+* Backend development
+* API design
+* Automation tools
+* Data processing
+* Developer tooling
+* Distributed systems
 
-Frontend
-├─ React
-├─ Next.js
-├─ TypeScript
-└─ TailwindCSS
-
-Systems
-├─ Linux
-├─ Unix
-├─ Docker
-├─ Networking
-├─ TCP/IP
-└─ Socket Programming
-
-Data
-├─ PostgreSQL
-└─ SQL
-```
+I'm particularly interested in software that combines performance, simplicity, and maintainability.
 
 ---
 
-## /featured_projects
+## 🤝 Main Projects
 
-### 🐚 minishell
+### 🐚 Minishell
 
-```txt
-A Unix shell implemented from scratch in C.
+A Unix shell built from scratch in C.
 
-Features
-├─ Command parsing
-├─ Environment variables
-├─ Pipes
-├─ Redirections
-├─ Process management
-├─ Signal handling
-└─ Built-in commands
+**Highlights**
 
-Stack
-└─ C • POSIX • Linux
-```
+* Process creation and management
+* Pipes and redirections
+* Environment variables
+* Signal handling
+* Command parsing
+* Built-in shell commands
+
+**Stack:** C · POSIX · Linux
 
 ---
 
 ### 💬 IRC
 
-```txt
-An IRC server implementing core networking concepts
-and real-time client communication.
+An IRC server implementing real-world networking concepts in C++.
 
-Features
-├─ TCP sockets
-├─ Multiple clients
-├─ Channels
-├─ Operators
-├─ Authentication
-└─ IRC protocol implementation
+**Highlights**
 
-Stack
-└─ C++ • TCP/IP • Networking
-```
+* TCP socket programming
+* Multi-client communication
+* Channel management
+* User authentication
+* IRC protocol implementation
+* Event-driven architecture
+
+**Stack:** C++ · TCP/IP · Networking
 
 ---
 
 ### 🎮 ft_transcendence
 
-```txt
-A modern full-stack application featuring
-real-time multiplayer interactions.
+A full-stack web application featuring real-time multiplayer interactions.
 
-Features
-├─ Authentication
-├─ Real-time communication
-├─ Multiplayer gameplay
-├─ User profiles
-├─ Social features
-├─ Match history
-└─ Containerized deployment
+**Highlights**
 
-Stack
-└─ TypeScript • NestJS • React • PostgreSQL • Docker
-```
+* Authentication system
+* Real-time communication
+* Multiplayer gameplay
+* User profiles
+* Social features
+* Containerized deployment
+
+**Stack:** TypeScript · NestJS · React · PostgreSQL · Docker
 
 ---
 
-## /currently_building
+## 🎯 What I Do
 
-```python
-focus = {
-    "language": "Python",
-    "interests": [
-        "backend engineering",
-        "automation",
-        "developer tools",
-        "network programming",
-        "system design",
-        "distributed systems"
-    ]
-}
-```
+* Develop backend services and APIs
+* Build automation tools with Python
+* Design and implement networked applications
+* Work with Linux and containerized environments
+* Write maintainable, production-oriented code
+* Learn new technologies by building projects
 
 ---
 
-## /philosophy
+## 🧰 Tech Stack
 
-```txt
-Write simple code.
-Understand the system.
-Measure before optimizing.
-Automate repetitive work.
-Keep building.
-```
+**Languages**
 
-<br>
+`Python` `C` `C++` `TypeScript` `JavaScript` `Bash`
 
-```txt
+**Backend**
+
+`Python` `FastAPI` `Django` `NestJS`
+
+**Frontend**
+
+`React` `Next.js` `TailwindCSS`
+
+**Infrastructure**
+
+`Docker` `Linux` `Git` `GitHub Actions`
+
+**Databases**
+
+`PostgreSQL`
+
+**Other**
+
+`Sockets` `TCP/IP` `Debugging` `System Programming` `Algorithms`
+
+---
+
+## 🧠 About Me
+
+I'm a 42 student who enjoys tackling problems at different levels of abstraction — from low-level systems programming to modern backend architectures.
+
+I value clean code, curiosity, and continuous learning. Most of my projects are opportunities to explore how things work internally while building software that's practical and reliable.
+
+```bash
 $ whoami
 awkalloc
-```
 
-</div>
+$ interests
+systems programming
+backend engineering
+python development
+networking
+open source
+```
