@@ -3,7 +3,6 @@
 <p align="center">
   Software Engineer passionate about systems programming, networking, backend architecture, and full-stack development.
 </p>
----
 
 ## 🚀 About Me
 
