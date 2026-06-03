@@ -2,6 +2,7 @@
 
 ---
  - 🎓 **Education**: I’m a 42 student and a passionate developer with a strong interest in network, low-and-high-level programming and script automatisation
+ - 🧠 **About Me**: I'm curious and always seeking to learn new concepts, I love problem-solving, unit-test and to make good foundations for team projects
 ---
 - 🛠️ **Tech Stack:**
   - **Languages**:
