@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&duration=4000&pause=1000&color=C8C8C8&vCenter=true&width=625&lines=Hello+%F0%9F%91%8B+I'm+Awkalloc+%3AD)](https://git.io/typing-svg)
 
 ---
- - 🎓 **Education**: I’m a 42 student and a passionate developer with a strong interest in network, low-and-high-level programming and script automatisation
+ - 🎓 **Education**: I’m a 42 student and a passionate developer with a strong interest in data-engineering, low-and-high-level programming, script automatisation and network
  - 🧠 **About Me**: I'm curious and always seeking to learn new concepts, I love problem-solving, unit-test and create well-structured workflows for team projects
 ---
 - 🛠️ **Tech Stack:**
